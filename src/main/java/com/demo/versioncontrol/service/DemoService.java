@@ -8,11 +8,9 @@ import org.springframework.stereotype.Service;
 public class DemoService implements DemoOperationUseCase{
     @Override
     public void create() {
-
     }
 
     @Override
     public void update() {
-
     }
 }
