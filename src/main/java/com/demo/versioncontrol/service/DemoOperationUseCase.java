@@ -1,5 +1,7 @@
 package com.demo.versioncontrol.service;
 
 public interface DemoOperationUseCase {
-    void createDemo();
+    void create();
+
+    void update();
 }
