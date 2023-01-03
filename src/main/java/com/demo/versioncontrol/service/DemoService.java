@@ -6,4 +6,8 @@ import org.springframework.stereotype.Service;
 @Slf4j
 @Service
 public class DemoService implements DemoOperationUseCase{
+    @Override
+    public void createDemo() {
+
+    }
 }
